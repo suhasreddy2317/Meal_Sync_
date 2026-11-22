@@ -1,6 +1,8 @@
-# MealSync
+# Meal_Sync_
 
-## Intelligent Food and Dining Management
+## MealSync — Intelligent Food and Dining Management
+
+AI-powered Smart Mess Management System for efficient meal planning, attendance tracking and food wastage reduction.
 
 > **Smarter Meals. Seamless Management.**  
 > A world-class, premium SaaS-style Mess Management System engineered with **Next.js 14 App Router**, **TypeScript**, **Supabase PostgreSQL**, **Tailwind CSS**, and **Recharts**. Designed with modern minimalism, soft neubrutalism, high-definition food photography, and glassmorphic card layouts to eliminate institutional food waste, streamline student dining, and empower mess administrators.
