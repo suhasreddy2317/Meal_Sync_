@@ -40,7 +40,6 @@
     "zod": "^3.24.1"
   },
   "devDependencies": {
-    "@next/swc-win32-x64-msvc": "^14.2.20",
     "@types/node": "^20.17.6",
     "@types/nodemailer": "^8.0.2",
     "@types/pg": "^8.23.1",
